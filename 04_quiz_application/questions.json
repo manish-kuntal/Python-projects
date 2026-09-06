@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What is the output of 2 + 3 * 4?",
+    "options": ["20", "14", "24", "11"],
+    "answer": 1
+  },
+  {
+    "question": "Which data type is immutable in Python?",
+    "options": ["list", "dict", "set", "tuple"],
+    "answer": 3
+  },
+  {
+    "question": "What keyword is used to define a function in Python?",
+    "options": ["func", "def", "function", "lambda"],
+    "answer": 1
+  },
+  {
+    "question": "Which built-in function returns the length of an object?",
+    "options": ["size()", "len()", "count()", "length()"],
+    "answer": 1
+  },
+  {
+    "question": "Which operator is used for string concatenation?",
+    "options": ["+", "&", "concat", "."] ,
+    "answer": 0
+  }
+]
